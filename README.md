@@ -1,4 +1,6 @@
-### Hi there 👋
+### **Vitoria Pirollo**
+### 3 ano B - Tecnologia
+![](https://github.com/vitoriapirollo/vitoriapirollo/assets/170112887/c5062a27-9c15-4a2d-9baf-d7b1a99bca85)
 
 <!--
 **vitoriapirollo/vitoriapirollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
